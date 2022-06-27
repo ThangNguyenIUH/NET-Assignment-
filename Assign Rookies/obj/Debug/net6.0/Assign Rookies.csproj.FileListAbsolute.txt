@@ -1,0 +1,65 @@
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\appsettings.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign Rookies.staticwebassets.runtime.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign Rookies.exe
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign Rookies.deps.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign Rookies.runtimeconfig.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign Rookies.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign Rookies.pdb
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign.DataAcess.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign.Models.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign.DataAcess.pdb
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Assign.Models.pdb
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.csproj.AssemblyReference.cache
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.AssemblyInfoInputs.cache
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.AssemblyInfo.cs
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.RazorAssemblyInfo.cache
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.RazorAssemblyInfo.cs
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\scopedcss\bundle\Assign Rookies.styles.css
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\scopedcss\projectbundle\Assign Rookies.bundle.scp.css
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.csproj.CopyComplete
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\refint\Assign Rookies.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.pdb
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\Assign Rookies.genruntimeconfig.cache
+C:\Users\thang\source\repos\Assign\Assign Rookies\obj\Debug\net6.0\ref\Assign Rookies.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Humanizer.dll
+C:\Users\thang\source\repos\Assign\Assign Rookies\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
