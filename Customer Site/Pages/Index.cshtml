@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Home page";
+}
+
+@foreach (var images in Model.DBProduct)
+{
+ @*   var imagePath = "~/images/" + (@images.Img);*@
+
+    <div class="col-md-4" style=" margin-top: 10px;">
+        <div class="product-item">
+            <div class="product-title">
+                <a>@images.Name</a>
+                <div class="ratting">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </div>
+            </div>
+            <div class="product-image">
+                <a asp-area="" asp-page="DetailProducts"
+               asp-route-ProductID="@images.Id">
+                    <img src="@images.ImageSrc" class="w-100" asp-append-version="true" />
+                </a>
+            </div>
+            <div class="product-price">
+                <h4 style="text-align: center">@images.Price<span>VND</span></h4>
+                <a class="btn btn-primary mt-1 images-img" style="text-align:right" asp-area="" asp-page="Productsdetail"
+               asp-route-ProductID="@images.Id"><i class="fa fa-shopping-cart"></i>CHI TIẾT</a>
+                <br />
+
+            </div>
+        </div>
+    </div>
+}

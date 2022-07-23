@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thang\\source\\repos\\Assign\\Assign.Models\\Assign.Models.csproj": {}
+    "C:\\Users\\thang\\source\\repos\\NET-Assignment-\\Assign.Models\\Assign.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thang\\source\\repos\\Assign\\Assign.Models\\Assign.Models.csproj": {
+    "C:\\Users\\thang\\source\\repos\\NET-Assignment-\\Assign.Models\\Assign.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thang\\source\\repos\\Assign\\Assign.Models\\Assign.Models.csproj",
+        "projectUniqueName": "C:\\Users\\thang\\source\\repos\\NET-Assignment-\\Assign.Models\\Assign.Models.csproj",
         "projectName": "Assign.Models",
-        "projectPath": "C:\\Users\\thang\\source\\repos\\Assign\\Assign.Models\\Assign.Models.csproj",
+        "projectPath": "C:\\Users\\thang\\source\\repos\\NET-Assignment-\\Assign.Models\\Assign.Models.csproj",
         "packagesPath": "C:\\Users\\thang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thang\\source\\repos\\Assign\\Assign.Models\\obj\\",
+        "outputPath": "C:\\Users\\thang\\source\\repos\\NET-Assignment-\\Assign.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

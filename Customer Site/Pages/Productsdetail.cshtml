@@ -1,0 +1,55 @@
+﻿@page
+@model Customer_Site.Pages.ProductsModel
+@{
+}
+<div class="product-detail">
+    <div class="col-lg-12">
+        <div class="product-detail-top">
+            <div class="row align-items-center">
+                <div class="col-md-5">
+                    <div class="product-slider-single normal-slider">
+                        <img src="@Model.DBProduct.ImageSrc" />
+                    </div>
+
+                </div> 
+
+                <div class="col-md-7">
+                    <div class="product-content">
+                        <div class="title"><h2>@Model.DBProduct.Name</h2></div>
+                        <div class="ratting">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+
+                        <div class="price">
+                            <h4>Price:</h4>
+                            <p>@Model.DBProduct.Price VNĐ</p>
+                        </div>
+                        <div class="p-color">
+                            <h4>Loại sản phẩm:</h4>
+                            <div class="btn-group btn-group-sm">
+                                <p>@Model.DBProduct.Type</p>
+                            </div>
+                        </div>
+                        <div class="p-color">
+                            <h4>Mô tả:</h4>
+                            <div class="btn-group btn-group-sm">
+                                <p>@Model.DBProduct.Description</p>
+                            </div>
+                        </div>
+                        <div class="action">
+                            <a class="btn" style="float:center" asp-area="" asp-page="Checkout/ThankYou"><i class="fa fa-shopping-bag"></i>Mua ngay</a>
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
